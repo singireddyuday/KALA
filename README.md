@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Zignasa-KALA-project
 KALA is a web platform designed to empower local craftsmen and artisans by providing them with a global reach. Our mission is to connect art enthusiasts with authentic Indian art, showcasing the rich cultural heritage and craftsmanship of India. Through KALA, the aim is to support local artists, promote fair trade practices, and preserve traditional art forms for future generations.
 
@@ -17,3 +18,7 @@ KALA is a web platform designed to empower local craftsmen and artisans by provi
 - **State Management**: React Router for navigation
 - **Styling**: Tailwind CSS for utility-first styling
 - **Icons**: Lucide React for icons
+=======
+# KALA
+KALA Website is a step for empowering local craftsmen and aritsans for their global reach 
+>>>>>>> origin/main
